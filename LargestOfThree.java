@@ -29,4 +29,9 @@ public class LargestOfThree {
             return c;
         }
     }
+
+	 public static int findAverage(int a, int b, int c) {
+		return (a+b+c)/3;       
+    }
+	
 }
